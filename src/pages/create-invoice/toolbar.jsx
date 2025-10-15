@@ -38,7 +38,7 @@ const Toolbar = (props) => {
 	return (
 		<Box sx={styles.toolbar}>
 			<Box>
-				<Typography>Logo</Typography>
+				<Typography>Invoicess</Typography>
 			</Box>
 			<Box sx={styles.actionsContainer}>
 				{isShowModeMenu && <Menu
