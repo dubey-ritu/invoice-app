@@ -113,7 +113,7 @@ const Home = () => {
 				sx={styles.header}
 			>
 				<Box>
-					<Box>Logo</Box>
+					<Box>Invoicess</Box>
 					<Button
 						onClick={handleCreateInvoiceClick}
 					>
